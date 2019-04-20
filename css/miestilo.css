@@ -1,0 +1,14 @@
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+    margin-top: -30px;
+}
+
+.highcharts-credits{
+      display: none;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #007bff;
+}
+.cssmenu{
+    margin-top: -30px;
+
+}
